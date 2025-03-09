@@ -69,9 +69,9 @@ To deploy the portfolio, you can use:
 ## 📬 Contact
 Feel free to reach out if you have any questions or suggestions!
 
-📧 Email: your.email@example.com  
-🔗 LinkedIn: [Your LinkedIn](#)  
-🐦 Twitter: [Your Twitter](#)
+📧 Email: pillalauday2005@gmail.com  
+🔗 LinkedIn: [https://www.linkedin.com/in/uday-kiran-pillala/](#)  
+
 
 ---
 
