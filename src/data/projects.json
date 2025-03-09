@@ -1,0 +1,16 @@
+[
+    {
+      "title": "Phishing Website Detection Using Random Forest Model",
+      "imageSrc": "projects/project.png",
+      "description": "Implemented a phishing website detection system using the Random Forest model, enhancing cybersecurity by accurately identifying malicious sites",
+      "skills": ["Python", "RandomForest model", "ML"],
+      "source": "https://github.com/udaykiran1205/"
+    },
+    {
+      "title": "InWood Ecommerce website clone",
+      "imageSrc": "projects/project.png",
+      "description": "Developed a responsive Inwood E-Commerce website clone using modern web technologies, ensuring a seamless user experience across devices.",
+      "skills": ["HTML", "CSS", "JS"],
+      "source": "https://github.com/udaykiran1205/Inwood-Ecommerce-Website-clone"
+    }
+  ]

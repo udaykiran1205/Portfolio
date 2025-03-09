@@ -1,0 +1,39 @@
+[
+    {
+      "title": "HTML",
+      "imageSrc": "skills/html.png"
+    },
+    {
+      "title": "CSS",
+      "imageSrc": "skills/css.png"
+    },
+    {
+      "title": "React",
+      "imageSrc": "skills/react.png"
+    },
+    {
+      "title": "Java",
+      "imageSrc": "skills/java.png"
+    },
+    {
+      "title": "SQL",
+      "imageSrc": "skills/sql.png"
+    },
+    {
+      "title": "Python",
+      "imageSrc": "skills/python.png"
+    },
+    {
+      "title": "C",
+      "imageSrc": "skills/c.png"
+    },
+    {
+        "title": "C++",
+        "imageSrc": "skills/cpp.png"
+    },
+    {
+      "title": "Java Script",
+      "imageSrc": "skills/js.png"
+  }
+  ]
+  
