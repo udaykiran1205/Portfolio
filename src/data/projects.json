@@ -12,5 +12,11 @@
       "description": "Developed a responsive Inwood E-Commerce website clone using modern web technologies, ensuring a seamless user experience across devices.",
       "skills": ["HTML", "CSS", "JS"],
       "source": "https://github.com/udaykiran1205/Inwood-Ecommerce-Website-clone"
+    },
+    {
+      "title": "Fido Based Password-less Authentication for E-Bikes",
+      "imageSrc": "projects/project.png",
+      "description": "Enchance Security for E-Bikes Using Fido Based Passwordless Authentication",
+      "source": "#"
     }
   ]
